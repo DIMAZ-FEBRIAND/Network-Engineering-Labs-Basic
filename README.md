@@ -28,8 +28,5 @@ A collection of networking labs and configuration projects built using Cisco Pac
 - Cisco IOS CLI
 - Networking and troubleshooting
 
-## Verification
-Each lab should include topology screenshots, relevant configurations, and connectivity test results where applicable.
-
 ## Author
 Networking portfolio project.
